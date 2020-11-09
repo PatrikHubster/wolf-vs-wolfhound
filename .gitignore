@@ -1,7 +1,8 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/venv,pycharm,macos,windows,linux,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,pycharm,macos,windows,linux,python
-./data
+data
+*.sav
 ### Linux ###
 *~
 
