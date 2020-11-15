@@ -4,4 +4,4 @@ Do not be alarmed. You will not see any bloody scenes in this repository. This i
 
 ![odin](./odin-pictures/odin-1.jpeg)
 
-As a data set to train our AI we use the data set [Dog vs. Wolf](https://www.kaggle.com/harishvutukuri/dogs-vs-wolves) von Kaggle linked here. Based on this we train this two class model with the help of Tensor Flow. The result can be read in the Jupiter Notebook.
+As a data set to train our AI we use the data set [Dog vs. Wolf](https://www.kaggle.com/harishvutukuri/dogs-vs-wolves) from Kaggle linked here. Based on this we train this two class model with the help of Tensor Flow. The result can be read in the Jupiter Notebook.
